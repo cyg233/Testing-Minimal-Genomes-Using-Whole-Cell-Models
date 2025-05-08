@@ -1,0 +1,13 @@
+Lineage_1,Lineage_2,Lineage_3,Lineage_4,Lineage_5,Lineage_6,Lineage_7,Lineage_8,Lineage_9,Lineage_10,Lineage_11,Lineage_12,Lineage_13,Lineage_14,Lineage_15,Lineage_16,Lineage_17,Lineage_18,Lineage_19,Lineage_20,Lineage_22,Lineage_23,Lineage_24,Lineage_25,Lineage_26,Lineage_27,Lineage_28,Lineage_29,Lineage_30,Lineage_31,Lineage_32,Lineage_33,Lineage_34,Lineage_35,Lineage_36,Lineage_37,Lineage_38,Lineage_39,Lineage_40,Lineage_41,Lineage_42,Lineage_44,Lineage_45,Lineage_46,Lineage_47,Lineage_48,Lineage_51
+msrP,ftp,ftp,icd,ftp,ftp,ftp,ftp,ftp,rplK,ftp,ftp,ftp,hisA,ftp,ftp,ftp,ftp,trpC,ftp,rplL,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ftp,ygeA,ftp,icd,def,ftp
+rpsH,hisI,hisI,proW,hisI,hisI,hisI,hisI,hisI,ydfG,hisI,hisI,hisI,hisC,hisI,hisI,hisI,hisI,ftp,hisI,ftp,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,hisI,ftp,hisI,ftp,hisA,hisI
+ftp,ispU,ispU,ftp,ispU,ispU,ispU,ispU,ispU,ftp,ispU,ispU,ispU,hisH,ispU,ispU,ispU,ispU,hisI,ispU,hisI,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,ispU,hisI,ispU,hisI,hisC,ispU
+hisI,metA,metA,hisI,metA,metA,metA,metA,metA,hisI,metA,metA,metA,ftp,metA,metA,metA,metA,ispU,metA,ispU,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,metA,ispU,metA,ispU,hisH,metA
+ispU,rpmJ,rpmJ,ispU,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,ispU,rpmJ,rpmJ,rpmJ,hisI,rpmJ,rpmJ,rpmJ,rpmJ,metA,rpmJ,metA,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,rpmJ,metA,rpmJ,metA,ftp,rpmJ
+metA,trpD,trpD,metA,trpD,trpD,trpD,trpD,trpD,metA,trpD,trpD,trpD,ispU,trpD,trpD,trpD,trpD,rpmJ,trpD,rpmJ,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,trpD,rpmJ,trpD,rpmJ,hisI,trpD
+rpmJ,tsuA,tsuA,rpmJ,tsuA,tsuA,tsuA,tsuA,tsuA,rpmJ,tsuA,tsuA,tsuA,metA,tsuA,tsuA,tsuA,tsuA,trpD,tsuA,trpD,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,tsuA,trpD,tsuA,trpD,ispU,tsuA
+trpD,waaP,waaP,trpD,waaP,waaP,waaP,waaP,waaP,trpD,waaP,waaP,waaP,rpmJ,waaP,waaP,waaP,waaP,tsuA,waaP,tsuA,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,waaP,tsuA,waaP,tsuA,metA,waaP
+tsuA,,,tsuA,,,,,,tsuA,,,,trpD,,,,,waaP,,waaP,,,,,,,,,,,,,,,,,,,,,,waaP,,waaP,rpmJ,
+waaP,,,waaP,,,,,,waaP,,,,tsuA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,trpD,
+,,,,,,,,,,,,,waaP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tsuA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,waaP,
